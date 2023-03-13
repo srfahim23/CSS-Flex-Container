@@ -1,0 +1,14 @@
+.flex-container{
+    display: flex;
+    justify-content: space-between;
+    background-color: dodgerblue;
+}
+
+.flex-container > div{
+    background-color: #f1f1f1;
+    width: 100px;
+    margin: 10px;
+    padding: 20px;
+    line-height: 75px;
+    align-items: center;
+}
